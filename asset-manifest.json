@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/covid19-reactapp/static/css/main.b00bacdb.chunk.css",
+    "main.js": "/covid19-reactapp/static/js/main.9f2fa774.chunk.js",
+    "main.js.map": "/covid19-reactapp/static/js/main.9f2fa774.chunk.js.map",
+    "runtime-main.js": "/covid19-reactapp/static/js/runtime-main.112ca26f.js",
+    "runtime-main.js.map": "/covid19-reactapp/static/js/runtime-main.112ca26f.js.map",
+    "static/js/2.3ab41267.chunk.js": "/covid19-reactapp/static/js/2.3ab41267.chunk.js",
+    "static/js/2.3ab41267.chunk.js.map": "/covid19-reactapp/static/js/2.3ab41267.chunk.js.map",
+    "index.html": "/covid19-reactapp/index.html",
+    "static/css/main.b00bacdb.chunk.css.map": "/covid19-reactapp/static/css/main.b00bacdb.chunk.css.map",
+    "static/js/2.3ab41267.chunk.js.LICENSE.txt": "/covid19-reactapp/static/js/2.3ab41267.chunk.js.LICENSE.txt",
+    "static/media/statewise.css": "/covid19-reactapp/static/media/background-img.6b8604a0.jpg",
+    "static/media/WebPage.css": "/covid19-reactapp/static/media/home-bg.f7053293.jpg",
+    "static/media/pre1.7c5fd20f.png": "/covid19-reactapp/static/media/pre1.7c5fd20f.png",
+    "static/media/pre2.1789ede9.png": "/covid19-reactapp/static/media/pre2.1789ede9.png",
+    "static/media/pre3.645667ad.png": "/covid19-reactapp/static/media/pre3.645667ad.png",
+    "static/media/pre4.ec5814df.png": "/covid19-reactapp/static/media/pre4.ec5814df.png",
+    "static/media/pre5.bd11cf17.png": "/covid19-reactapp/static/media/pre5.bd11cf17.png",
+    "static/media/pre6.b016ec41.png": "/covid19-reactapp/static/media/pre6.b016ec41.png",
+    "static/media/saikat.a565d8d3.jpg": "/covid19-reactapp/static/media/saikat.a565d8d3.jpg",
+    "static/media/sudipta.daacd5ef.jpg": "/covid19-reactapp/static/media/sudipta.daacd5ef.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.112ca26f.js",
+    "static/js/2.3ab41267.chunk.js",
+    "static/css/main.b00bacdb.chunk.css",
+    "static/js/main.9f2fa774.chunk.js"
+  ]
+}
